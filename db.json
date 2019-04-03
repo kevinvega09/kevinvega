@@ -1,5 +1,5 @@
 {
-    "texts": [
+    "dias": [
       { "text": "Lunes", "value": "lunes" },
       { "text": "Martes", "value": "martes" },
       { "text": "Miercoles", "value": "miercoles" },
