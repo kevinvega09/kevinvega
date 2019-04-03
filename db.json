@@ -1,0 +1,19 @@
+[
+    {
+        "dia:": "Lunes",
+        "atalaya": "2",
+        "despertad": "3",
+        "enseña": "1",
+        "otros":"5",
+        "buenas-noticias":"6"
+    },
+    {
+        "dia:": "Martes",
+        "atalaya": "0",
+        "despertad": "4",
+        "enseña": "6",
+        "otros":"2",
+        "buenas-noticias":"1"
+    }
+]
+
